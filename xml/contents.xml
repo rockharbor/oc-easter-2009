@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<xml>
+	
+	<mainmenu>
+		<title><![CDATA[ABOUT]]></title>
+		<content>about.swf</content>
+	</mainmenu>
+	
+	<mainmenu>
+		<title><![CDATA[WHAT TO EXPECT]]></title>
+		<content>whattoexpect.swf</content>
+	</mainmenu>
+	
+	<mainmenu>
+		<title><![CDATA[WHY WE CELEBRATE]]></title>
+		<content>whywecelebrate.swf</content>
+	</mainmenu>
+	
+	<mainmenu>
+		<title><![CDATA[KIDS]]></title>
+		<content>kids.swf</content>
+	</mainmenu>
+	
+	<mainmenu>
+		<title><![CDATA[WHO IS JESUS]]></title>
+		<content>whoisjesus.swf</content>
+	</mainmenu>
+	
+	<mainmenu>
+		<title><![CDATA[CHURCH DIRECTORY]]></title>
+		<content>churchdirectory.swf</content>
+	</mainmenu>
+	
+	<mainmenu>
+		<title><![CDATA[DIRECTIONS]]></title>
+		<content>directions.swf</content>
+	</mainmenu>
+</xml>

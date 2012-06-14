@@ -1,0 +1,9 @@
+/*
+	NOTES:
+		-- html>body .class		[IE does not understand this rule so it will be ignored. All other browsers will use this rule.]
+*/
+
+BODY		{ margin: 0px; }
+#address 	{ float: left; display: inline; font-family: arial, verdana, helvetica; font-size: 9pt; color: #444444; padding-top: 5px; padding-bottom: 5px; 
+			  margin-left: 500px; }
+

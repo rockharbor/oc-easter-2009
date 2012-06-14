@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<config>
+	<logo_small>images/mainlogo.png</logo_small>
+	<website_color>#29987D</website_color>
+	<fullscreen_button_visible>true</fullscreen_button_visible>
+	<background_active>true</background_active>
+	<background_menu_active>true</background_menu_active>
+	<background_default>backgrounds/bkg_carbon_02.swf</background_default>
+	<audio_console_visible>true</audio_console_visible>
+	<homepage_default>homepage.swf</homepage_default>
+</config>
